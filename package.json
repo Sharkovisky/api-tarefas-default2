@@ -1,0 +1,29 @@
+{
+  "name": "api-tarefas-default2",
+  "version": "1.0.0",
+  "description": "API Tarefas v1",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharkovisky/api-tarefas-default2.git"
+  },
+  "keywords": [
+    "tarefas"
+  ],
+  "author": "Nelson Treméa Neto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sharkovisky/api-tarefas-default2/issues"
+  },
+  "homepage": "https://github.com/Sharkovisky/api-tarefas-default2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
